@@ -103,20 +103,13 @@ Through this project, I developed practical knowledge of:
 - Business intelligence and data-driven decision making
 
 ---
-
 ## 📁 Project Files
 
-### Power BI Dashboard
-`Financial_Performance_Dashboard.pbix`
-
-The Power BI file contains the dashboard and underlying Power BI development work.
-
-### Dashboard PDF
-`Financial_Performance_Dashboard.pdf`
-
-A PDF version of the completed dashboard is provided for easy viewing.
-
----
+| File | Description |
+|---|---|
+| [Power BI Dashboard](Financial_Performance_Dashboard.pbix) | Power BI project file |
+| [Dashboard PDF](Financial_Performance_Dashboard.pdf) | PDF version of the completed dashboard |
+| [Dashboard Preview](Financial_Performance_Dashboard_Preview.png) | Dashboard preview image |
 
 ## 👨‍💻 Author
 

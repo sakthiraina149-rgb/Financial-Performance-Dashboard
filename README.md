@@ -32,7 +32,11 @@ The main objective of this project is to transform financial data into meaningfu
 - **Business Intelligence**
 
 ---
+## 📊 Dashboard Preview
 
+![Financial Performance Dashboard](Financial_Performance_Dashboard_Preview.png)
+
+---
 ## 📈 Dashboard KPIs
 
 | KPI | Value |

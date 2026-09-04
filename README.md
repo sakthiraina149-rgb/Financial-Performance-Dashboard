@@ -22,6 +22,13 @@ The main objective of this project is to transform financial data into meaningfu
 - Create an interactive financial performance dashboard
 
 ---
+---
+
+## 📂 Data Source
+
+The project uses a Microsoft financial dataset for analyzing sales, profit, margins, units sold, country-wise performance, and segment-wise performance.
+
+The original dataset is not included in this repository.
 
 ## 🛠️ Tools & Technologies
 
